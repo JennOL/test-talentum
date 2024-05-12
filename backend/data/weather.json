@@ -1,0 +1,155 @@
+{
+	"cities": [
+	  {
+		"name": "Cali",
+		"weather": [
+		  {
+			"id": 802,
+			"main": "Clouds"
+		  }
+		],
+		"base": "stations",
+		"main": {
+		  "temp": 298.15,
+		  "temp_min": 298.15,
+		  "temp_max": 298.15,
+		  "humidity": 73
+		},
+		"wind": {
+		  "speed": 1.5
+		},
+		"sys": {
+		  "type": 1,
+		  "id": 8590,
+		  "country": "CO"
+		},
+		"cod": 200
+	  },
+	  {
+		"name": "Bogota",
+		"weather": [
+		  {
+			"id": 803,
+			"main": "Overcast"
+		  }
+		],
+		"base": "stations",
+		"main": {
+		  "temp": 285.15,
+		  "temp_min": 285.15,
+		  "temp_max": 285.15,
+		  "humidity": 80
+		},
+		"wind": {
+		  "speed": 3.5
+		},
+		"sys": {
+		  "type": 1,
+		  "id": 8591,
+		  "country": "CO"
+		},
+		"cod": 201
+	  },
+	  {
+		"name": "Medellin",
+		"weather": [
+		  {
+			"id": 800,
+			"main": "Clear"
+		  }
+		],
+		"base": "stations",
+		"main": {
+		  "temp": 290.15,
+		  "temp_min": 290.15,
+		  "temp_max": 290.15,
+		  "humidity": 75
+		},
+		"wind": {
+		  "speed": 2.0
+		},
+		"sys": {
+		  "type": 1,
+		  "id": 8592,
+		  "country": "CO"
+		},
+		"cod": 202
+	  },
+	  {
+		"name": "Cartagena",
+		"weather": [
+		  {
+			"id": 801,
+			"main": "Partly Cloudy"
+		  }
+		],
+		"base": "stations",
+		"main": {
+		  "temp": 305.15,
+		  "temp_min": 305.15,
+		  "temp_max": 305.15,
+		  "humidity": 85
+		},
+		"wind": {
+		  "speed": 4.0
+		},
+		"sys": {
+		  "type": 1,
+		  "id": 8593,
+		  "country": "CO"
+		},
+		"cod": 203
+	  },
+	  {
+		"name": "Barranquilla",
+		"weather": [
+		  {
+			"id": 804,
+			"main": "Heavy Clouds"
+		  }
+		],
+		"base": "stations",
+		"main": {
+		  "temp": 303.15,
+		  "temp_min": 303.15,
+		  "temp_max": 303.15,
+		  "humidity": 78
+		},
+		"wind": {
+		  "speed": 2.2
+		},
+		"sys": {
+		  "type": 1,
+		  "id": 8594,
+		  "country": "CO"
+		},
+		"cod": 204
+	  },
+	  {
+		"name": "Pereira",
+		"weather": [
+		  {
+			"id": 802,
+			"main": "Clouds"
+		  }
+		],
+		"base": "stations",
+		"main": {
+		  "temp": 295.15,
+		  "temp_min": 295.15,
+		  "temp_max": 295.15,
+		  "humidity": 88
+		},
+		"wind": {
+		  "speed": 1.8
+		},
+		"sys": {
+		  "type": 1,
+		  "id": 8595,
+		  "country": "CO"
+		},
+		"cod": 205
+	  }
+	]
+  }
+  
